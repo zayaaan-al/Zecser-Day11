@@ -1,6 +1,6 @@
 export default function CTA() {
   return (
-    <section className="relative py-24 bg-gradient-to-r from-secondary to-slate-900 text-white overflow-hidden">
+    <section className="relative py-24 bg-linear-to-r from-secondary to-slate-900 text-white overflow-hidden">
 
       <div className="absolute inset-0 bg-white/5 backdrop-blur-3xl"></div>
 

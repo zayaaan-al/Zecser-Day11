@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="relative overflow-hidden bg-gradient-to-br from-primary via-indigo-600 to-purple-700 text-white">
+    <section className="relative overflow-hidden bg-linear-to-br from-primary via-indigo-600 to-purple-700 text-white">
 
       {/* background glow */}
       <div className="absolute -top-32 -left-32 w-96 h-96 bg-white/10 rounded-full blur-3xl"></div>
